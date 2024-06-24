@@ -1,3 +1,1 @@
-var a = 5
-var b = 2
-var c = 20
+var x = 123
