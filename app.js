@@ -1,6 +1,3 @@
-afwefafauhfaiuhfiuafafadewfaf
-afwefafauhfaiuhfiuafafadewfafafwef
-addEventListeners
 aaaaaaf
 WebGLBufferawf
 awaitf
